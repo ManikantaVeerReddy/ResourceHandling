@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ResourceHandlingDataApp</string>
+
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="input_dialog">Input Dialog</string>
+    <string name="toast_dialog">Toast Dialog</string>
+    <string name="date_dialog">Date Dialog</string>
+    <string name="time_dialog">Time Dialog</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="progress_dialog">Progress Dialog</string>
+
+</resources>
